@@ -12,3 +12,12 @@ print(a + ' ' + d)
 print(a * n)
 
 print(d * n)
+
+print(n / N)
+
+print(n * N)
+
+print(n - N)
+
+print(n + N)
+
